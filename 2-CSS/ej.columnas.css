@@ -1,0 +1,17 @@
+.titulonoticia{
+    color: #2746F5;
+    font-size: 36px;
+
+}
+.subtitulonotica{
+    color: #44435f;
+    font-size: 28px;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+.tituloterciario{
+     color: #44435f;
+    font-size: 36px;
+}
+h1{color:red;}
